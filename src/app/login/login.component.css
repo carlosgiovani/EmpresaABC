@@ -1,0 +1,8 @@
+.content-login{
+  height: calc(100vh - 50px);
+  width: 100%;
+}
+.column-bg{
+  background: rgb(10,28,35);
+  background: linear-gradient(315deg, rgba(10,28,35,1) 0%, rgba(5,120,145,1) 80%, rgba(1,209,251,1) 100%);
+}
